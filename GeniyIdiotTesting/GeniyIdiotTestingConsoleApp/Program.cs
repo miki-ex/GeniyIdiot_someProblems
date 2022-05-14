@@ -36,7 +36,7 @@ namespace GeniyIdiotTestingConsoleApp
                 Console.ReadLine();
         }
     }
-
+    // написал ненужный комментарий
     public class TestingSystem
     {
         public Admin admin;
